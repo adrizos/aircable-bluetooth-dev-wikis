@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/330/libmxml/src
+END
+mxml_iterator.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/330/libmxml/src/mxml_iterator.c
+END
+mxml_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/330/libmxml/src/mxml_error.c
+END
+mxml_sgs.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/330/libmxml/src/mxml_sgs.c
+END
+mxml_path.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/330/libmxml/src/mxml_path.c
+END
+mxml_document.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/330/libmxml/src/mxml_document.c
+END
+mxml_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/330/libmxml/src/mxml_file.c
+END
+mxml_output.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/330/libmxml/src/mxml_output.c
+END
+mxml_refil.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/330/libmxml/src/mxml_refil.c
+END
+mxml_attribute.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/330/libmxml/src/mxml_attribute.c
+END
+mxml_node.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/330/libmxml/src/mxml_node.c
+END
+mxml_index.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/330/libmxml/src/mxml_index.c
+END

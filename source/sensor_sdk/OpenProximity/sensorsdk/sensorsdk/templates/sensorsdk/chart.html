@@ -1,0 +1,273 @@
+{% extends "sensorsdk/base.html" %}
+{% load i18n %}
+
+{% block extrahead %}
+    <script type="text/javascript" src="/site_media/MochiKit.js"></script>
+    <script type="text/javascript" src="/site_media/swfobject.js"></script>
+    <script type="text/javascript" src="/site_media/json2.js"></script>
+    <script type="text/javascript">
+
+    var charts=new Object;
+    var last_chart = null;
+    
+    function get_url(name){
+	out = "/sensorsdk/API/get-chart-data/"+charts[name].target+"/"+fields+"/data.json?"+ queryString(charts[name])
+	
+	return out
+    }
+
+    function findSWF(movieName) {
+	if (navigator.appName.indexOf("Microsoft")!= -1) {
+	    return window[movieName];
+	} else {
+	    return document[movieName];
+	}
+    }
+
+    function create_chart(name, target, fields, span, holder){
+	charts[name]=new Object;
+	charts[name]['target']=target;
+	charts[name]['fields']=fields;
+	charts[name]['span']=span;
+	charts[name]['raw']=$('chart_raw').checked;
+	charts[name]['smooth']=$('chart_smooth').checked;
+	charts[name]['smooth_factor']=$('chart_smooth_factor').text
+
+	swfobject.embedSWF(
+	    "/site_media/open-flash-chart-full-embedded-font.swf", 
+	    name, "100%", "400", "9.0.0","",
+		{
+		    "loading": "{% trans "Loading charts please wait..."%}",
+		    "data-file": escape(get_url(name))
+		}
+	    );
+	
+	roundElement(holder);
+	last_chart=name;
+    }
+
+    function update_chart(chart){
+	var shared_data = "";
+	
+	url=get_url(chart);
+	holder=findSWF(chart)
+	holder.reload(url)
+    }
+    
+    function generic_update_list(url, id, display, sel_val, success){
+	var d = loadJSONDoc(url);
+	
+	var gotData = function (data) {
+	    control=$(id);
+	    control.options.length=0;
+	    j = 0;
+	    for (i in data){
+		var v = Option(display(data[i]), sel_val(data[i]), false, false);
+		control.options[j]=v;
+		j++;
+	    }
+	    if (success != null){
+		success();
+	    }
+	};
+
+	var dataFetchFailed = function (err) {
+	    //alert("The " + id + " data couldn't be fetched :(");
+	    control=$(id);
+	    control.options.length=0;
+	};
+	d.addCallbacks(gotData, dataFetchFailed);
+    }
+    
+    function update_type_sensors_list(){
+	generic_update_list(
+	    "/sensorsdk/API/get-modes/", 
+	    "node_type",
+	    function (elem) { return elem },
+	    function (elem) { return elem },
+	    update_sensors_list);
+    };
+
+    function update_sensors_list(elem){
+	control=$('node_type');
+	url = "/sensorsdk/API/get-sensors/"+control.value;
+
+	generic_update_list(
+	    url, 
+	    "node_address",
+	    function (elem) { return elem.friendly_name + ' - '  + elem.name + ' ' + elem.address },
+	    function (elem) { return elem.address },
+	    update_fields_list);
+    };
+
+    function update_fields_list(elem){
+	control=$('node_address');
+	url = "/sensorsdk/API/get-chart-fields/"+control.value;
+	generic_update_list(
+	    url, 
+	    "node_fields",
+	    function (elem) { return elem },
+	    function (elem) { return elem },
+	    null);
+    };
+
+    addLoadEvent(
+	function(){
+	    connect($('node_type'), "onchange", update_sensors_list);
+	    connect($('node_address'), "onchange", update_fields_list);
+	    roundClass(null, "chart_button", {bgColor: "#e4e4e4"});
+	    update_type_sensors_list();
+	}
+    );
+    
+    function refresh_chart(elem){
+	target=getNodeAttribute($(elem._src), 'extra');
+	update_chart(target);
+    };
+    
+    function delete_chart(elem){
+	target=getNodeAttribute($(elem._src), 'extra');
+	removeElement(target);
+    };
+    
+    function get_time_span(){
+    el=getElementsByTagAndClassName('input', null, $('time_span'))
+    for (v in el){
+	    if (el[v].checked==true)
+		return el[v].value
+	}
+	return null
+    }
+    
+    function create_chart_button(id, text, extra, onclick){
+	var inner;
+	var out;
+	var a;
+	out=DIV({'id': id, 'class':'chart_button', 'style':'width:10em; margin-right: 1em'})
+	inner=DIV({'class': 'inner', 'style': 'height: 1.5em'})
+	out.appendChild(inner)
+	a=A({'innerHTML': text, 'extra': extra})
+	connect(a, 'onclick', onclick)
+	inner.appendChild(a)
+	return out
+    }
+    
+    function add_chart(){
+	var address=$('node_address').value;
+	var span=get_time_span()
+	
+	var control=$('node_fields');
+	fields=Array();
+	var count=0;
+	for ( i in control.options ){
+	    if (control.options[i].selected){
+		fields[count]=control.options[i].value;
+		count++;
+	    }
+	}
+	if (count==0){
+	    alert("{% trans "You need to choose at least one field" %}");
+	    return;
+	}
+	
+	var n=0;
+	for ( v in charts) {
+	    n++;
+	}
+	
+	var inner=DIV({'class': 'inner', 'style':'padding: 1em; height: 440px'});
+	var holder=DIV({'id': 'chart_holder' + n, 'class': 'content-main', 'style': 'float:bottom'});
+	
+	appendChildNodes($('charts_holder'), holder);
+	appendChildNodes(holder, inner);
+	appendChildNodes(inner, DIV({'id': 'chart' + n, 'style': 'float:bottom'}));
+	
+
+	var refresh=create_chart_button	('refresh'+n, '{% trans "Refresh" %}', 'chart'+n, refresh_chart);
+	var del =create_chart_button	('delete'+n,  '{% trans "Delete" %}',  holder.id, delete_chart);
+	
+	appendChildNodes(inner, refresh);
+	appendChildNodes(inner, del);
+	roundElement(refresh, {bgColor: "#e4e4e4"});
+	roundElement(del, {bgColor: "#e4e4e4"});
+	create_chart('chart'+n, address, fields, span, holder);
+	last_chart='chart'+n;
+    }
+    
+    
+    
+    </script>
+    <style type="text/css">
+	.label { width: 10em }
+	.btn { 
+	    position: static ;
+	    float: left;
+	    right: none;
+	    bottom: none;
+	}
+    .chart_button { 
+        overflow: hidden;
+	padding-bottom: 1 em;
+	margin-left: 0.5em;
+        float: left;
+        width: 110px;
+        text-align: center;
+        text-decoration: none;
+        background-color: #a6d5e9;
+        color: #555;
+    }
+    </style>
+{% endblock %}
+
+{% block content %}
+<div class="content-main">
+<div class="inner" style="height: 240px">
+    <fieldset class="configuration" style="width: 50%; float: left;" >
+    <legend><strong>{% trans "Chart Configuration" %}</strong></legend>
+    <div class="setting">
+	<div class="label">{% trans "Type" %}</div>
+        <span class="value"><select size="1" id="node_type" style="width: 60%"><option>{% trans "Loading"%}...</option></select></span>
+    </div>
+    <div class="setting">
+        <div class="label">{% trans "Node" %}</div>
+        <span class="value"><select size="1" id="node_address" style="width: 60%"><option>{% trans "Loading"%}...</option></select></span>
+    </div>
+    <div class="setting">
+        <div class="label">{% trans "Fields" %}</div>
+        <span class="value"><select size="4" id="node_fields" multiple="multiple" style="width: 60%"><option>{% trans "Loading"%}...</option></select></span>
+    </div>
+    <div class="setting">
+	<div class="label">{% trans "Time Span" %}</div>
+	<span class="value">
+	    <input type="radio" name="time_span" value="hour" checked="checked" />{% trans "Last Hour" %}
+	    <input type="radio" name="time_span" value="day" />{% trans "Last Day" %}
+	    <input type="radio" name="time_span" value="week" />{% trans "Last Week" %}
+	    <input type="radio" name="time_span" value="month" />{% trans "Last Month" %}
+	</span>
+    </div>
+    <div class="setting">
+	<div class="label">{% trans "Options" %}</div>
+	<span class="value">
+	    <input type="checkbox" id="chart_raw" checked="checked" />{% trans "Raw Data" %}
+	    <input type="checkbox" id="chart_smooth"/>{% trans "Smooth Data" %}
+	    {% trans "Smooth Factor" %}: <input type="text" id="chart_smooth_factor" value="0.2" style="width:3em" />
+	</span>
+    </div>
+    <div class="setting" style="margin-top: 0.5em; margin-left: 8em;">
+	<div id="create_chart" class="chart_button" style="width: 10em; margin-right: 1em;">
+	    <div class="inner" style="height: 1.5em">
+		<a onclick="add_chart();">{% trans "Add Chart" %}</a>
+	    </div>
+	</div>
+	<div id="refresh" class="chart_button" style="width: 10em; margin-right: 1em;">
+	    <div class="inner" style="height: 1.5em">
+		<a onclick="update_type_sensors_list();">{% trans "Refresh Fields" %}</a>
+	    </div>
+	</div>
+    </div>
+    </fieldset>
+</div>
+</div>
+<div id="charts_holder">
+</div>
+{% endblock %}

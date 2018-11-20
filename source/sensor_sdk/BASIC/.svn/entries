@@ -1,0 +1,83 @@
+10
+
+dir
+676
+http://aircable.googlecode.com/svn/sensor_sdk/BASIC
+http://aircable.googlecode.com/svn
+
+
+
+2009-05-28T00:43:14.205006Z
+474
+naranjo.manuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+424b5fdb-2024-0410-8daf-076db069837d
+
+interactive
+dir
+
+ambient
+dir
+
+gui
+dir
+
+receiver
+dir
+
+AIRcable.bas
+file
+
+
+
+
+2016-03-07T21:34:15.920104Z
+ec92fc1cdb871b959e29f8b314451049
+2009-05-28T00:43:14.205006Z
+474
+naranjo.manuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12986
+
+1wire
+dir
+
+shell
+dir
+
+monitor
+dir
+

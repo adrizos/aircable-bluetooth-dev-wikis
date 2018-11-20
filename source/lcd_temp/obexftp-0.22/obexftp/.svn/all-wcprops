@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/471/lcd_temp/obexftp-0.22/obexftp
+END
+object.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/obexftp/object.c
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/obexftp/cache.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/obexftp/Makefile.am
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/obexftp/object.h
+END
+uuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/obexftp/uuid.h
+END
+obexftp.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/obexftp/obexftp.h
+END
+bt_discovery.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/obexftp/bt_discovery.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/471/lcd_temp/obexftp-0.22/obexftp/Makefile
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/obexftp/client.c
+END
+obexftp_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/obexftp/obexftp_io.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/obexftp/Makefile.in
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/obexftp/cache.c
+END
+obexftp_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/obexftp/obexftp_io.h
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/obexftp/client.h
+END

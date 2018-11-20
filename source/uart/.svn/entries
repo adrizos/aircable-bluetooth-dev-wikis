@@ -1,0 +1,172 @@
+10
+
+dir
+676
+http://aircable.googlecode.com/svn/uart
+http://aircable.googlecode.com/svn
+
+
+
+2007-08-31T18:26:26.766325Z
+227
+naranjo.manuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+424b5fdb-2024-0410-8daf-076db069837d
+
+AIRcable.bas
+file
+
+
+
+
+2016-03-07T21:34:17.204071Z
+2ca80f06b6dc2b5def8e3f031969fcd2
+2007-08-31T18:26:26.766325Z
+227
+naranjo.manuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29932
+
+USB3_ServiceMaster
+dir
+
+uploader
+dir
+
+Industrial_CableMaster
+dir
+
+oem
+dir
+
+newUART
+dir
+
+changelog
+file
+
+
+
+
+2016-03-07T21:34:17.200071Z
+beec2fdc767e3896115068c0fa9a4bea
+2007-05-23T21:47:54.496549Z
+181
+naranjo.manuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2155
+
+USB3_ServiceSlave
+dir
+
+AIRmini
+dir
+
+Industrial_ServiceSlave
+dir
+
+SerialOS_ServiceSlave
+dir
+
+AIRserial3
+dir
+
+AIRserial4
+dir
+
+Industrial_CableSlave
+dir
+
+SMDServiceSlave
+dir
+
+AIRserial3b
+dir
+
+LICENSE.txt
+file
+
+
+
+
+2016-03-07T21:34:17.200071Z
+3b83ef96387f14655fc854ddc3c6bd57
+2007-01-13T15:00:29.909594Z
+30
+naranjo.manuel
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11358
+

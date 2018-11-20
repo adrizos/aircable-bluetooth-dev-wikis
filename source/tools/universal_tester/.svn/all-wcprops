@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/160/tools/universal_tester
+END
+aircableSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/24/tools/universal_tester/aircableSerial.h
+END
+rfcomm.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/24/tools/universal_tester/rfcomm.h
+END
+aircableOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/24/tools/universal_tester/aircableOS.h
+END
+qtabout.ui
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/24/tools/universal_tester/qtabout.ui
+END
+qtaircablemainform.ui
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/160/tools/universal_tester/qtaircablemainform.ui
+END
+aircableUSB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/24/tools/universal_tester/aircableUSB.cpp
+END
+aircableUSB.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/24/tools/universal_tester/aircableUSB.h
+END
+qtaircablemainform.ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/160/tools/universal_tester/qtaircablemainform.ui.h
+END
+aircableSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/24/tools/universal_tester/aircableSerial.cpp
+END
+rfcomm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/24/tools/universal_tester/rfcomm.cpp
+END
+tester.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/159/tools/universal_tester/tester.pro
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/24/tools/universal_tester/main.cpp
+END
+aircableOS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/24/tools/universal_tester/aircableOS.cpp
+END

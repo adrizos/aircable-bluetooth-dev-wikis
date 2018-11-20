@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/pdis/lib
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/pdis/lib/__init__.py
+END
+priority.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/pdis/lib/priority.py
+END
+best_threading.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/pdis/lib/best_threading.py
+END
+logging.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/pdis/lib/logging.py
+END

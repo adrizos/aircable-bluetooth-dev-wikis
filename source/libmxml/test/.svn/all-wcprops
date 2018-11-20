@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/330/libmxml/test
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/330/libmxml/test/Makefile.in
+END
+testattrib.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/330/libmxml/test/testattrib.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/330/libmxml/test/Makefile.am
+END
+mxml_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/330/libmxml/test/mxml_test.c
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/330/libmxml/test/test.xml
+END
+TEST
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/330/libmxml/test/TEST
+END
+test
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/330/libmxml/test/test
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/330/libmxml/test/test.c
+END

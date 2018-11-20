@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/471/lcd_temp/obexftp-0.22/bfb
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/bfb/crc.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/471/lcd_temp/obexftp-0.22/bfb/Makefile
+END
+bfb.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/bfb/bfb.h
+END
+bfb_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/bfb/bfb_io.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/bfb/Makefile.in
+END
+bfb_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/bfb/bfb_io.h
+END
+crc.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/bfb/crc.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/bfb/Makefile.am
+END
+bfb.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/bfb/bfb.c
+END

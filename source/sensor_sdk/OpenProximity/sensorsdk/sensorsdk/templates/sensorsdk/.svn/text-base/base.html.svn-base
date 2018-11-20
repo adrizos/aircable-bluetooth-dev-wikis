@@ -1,0 +1,15 @@
+{% extends "op/base.html" %}
+{% load i18n openproximity %}
+
+{% block title %}SensorSDK{% endblock %}
+
+{% block navbar %}
+    {% createNavButton "/" "nav_index" _("OpenProximity<br/>Index") %}
+    {% createNavButton "/sensorsdk/" "sensorsdk_index" _("SensorSDK<br/>Index") %}
+    {% createNavButton "/sensorsdk/chart/" "sensorsdk_chart" _("Charts") %}
+    {% createNavButton "/sensorsdk/admin/" "sensorsdk_admin" _("SensorSDK<br/>Admin") %}
+{% endblock%}
+
+{% block footer %}
+    {% trans "SensorSDK is brought to you by" %}
+{% endblock %}

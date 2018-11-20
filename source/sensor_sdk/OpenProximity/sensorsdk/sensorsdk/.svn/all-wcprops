@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/660/sensor_sdk/OpenProximity/sensorsdk/sensorsdk
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/655/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/views.py
+END
+plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/636/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/plugin.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/660/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/__init__.py
+END
+signals.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/570/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/signals.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/601/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/utils.py
+END
+serverxr.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/657/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/serverxr.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/653/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/models.py
+END
+charts.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/591/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/charts.py
+END
+rpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/654/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/rpc.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/656/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/urls.py
+END
+const.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/516/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/const.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/604/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/forms.py
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/651/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/admin.py
+END
+help_text.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/612/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/help_text.py
+END

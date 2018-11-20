@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/419/sensor_sdk/serverxr_messages/trunk/messages/net/aircable/message
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/418/sensor_sdk/serverxr_messages/trunk/messages/net/aircable/message/__init__.py
+END
+obex_message.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/418/sensor_sdk/serverxr_messages/trunk/messages/net/aircable/message/obex_message.py
+END
+obex_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/419/sensor_sdk/serverxr_messages/trunk/messages/net/aircable/message/obex_server.py
+END

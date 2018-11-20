@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/bad
+END
+test_ao_lock_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/bad/test_ao_lock_2.py
+END
+test_ao_loop.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/bad/test_ao_loop.py
+END
+test_ao_loop_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/bad/test_ao_loop_2.py
+END
+test_ntvsock_tcp.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/bad/test_ntvsock_tcp.py
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/553/sensor_sdk/BASIC.preparser/solar/NTC
+END
+linel
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/535/sensor_sdk/BASIC.preparser/solar/NTC/linel
+END
+ntc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/534/sensor_sdk/BASIC.preparser/solar/NTC/ntc
+END
+ntc_real
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/553/sensor_sdk/BASIC.preparser/solar/NTC/ntc_real
+END
+ntc_vo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/552/sensor_sdk/BASIC.preparser/solar/NTC/ntc_vo
+END
+fit.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/534/sensor_sdk/BASIC.preparser/solar/NTC/fit.py
+END
+calc.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/552/sensor_sdk/BASIC.preparser/solar/NTC/calc.py
+END
+test.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/535/sensor_sdk/BASIC.preparser/solar/NTC/test.m
+END
+ntc_real_vo
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/553/sensor_sdk/BASIC.preparser/solar/NTC/ntc_real_vo
+END
+plotme
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/552/sensor_sdk/BASIC.preparser/solar/NTC/plotme
+END
+ntc_ProbeAss__B57504__K504.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/553/sensor_sdk/BASIC.preparser/solar/NTC/ntc_ProbeAss__B57504__K504.pdf
+END
+readCsv.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/534/sensor_sdk/BASIC.preparser/solar/NTC/readCsv.m
+END
+createtable.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/553/sensor_sdk/BASIC.preparser/solar/NTC/createtable.py
+END

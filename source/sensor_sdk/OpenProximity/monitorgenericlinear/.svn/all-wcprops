@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/641/sensor_sdk/OpenProximity/monitorgenericlinear
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/575/sensor_sdk/OpenProximity/monitorgenericlinear/clean.sh
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/638/sensor_sdk/OpenProximity/monitorgenericlinear/setup.py
+END
+build_source.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/638/sensor_sdk/OpenProximity/monitorgenericlinear/build_source.sh
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/575/sensor_sdk/OpenProximity/monitorgenericlinear/build.sh
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/354/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/temperature
+END
+parse1.awk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/354/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/temperature/parse1.awk
+END
+parse2.awk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/354/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/temperature/parse2.awk
+END
+xml.awk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/354/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/temperature/xml.awk
+END
+parse.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/354/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/temperature/parse.sh
+END
+genxml.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/354/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/temperature/genxml.sh
+END

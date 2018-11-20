@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/657/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/templates/sensorsdk
+END
+chart.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/619/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/templates/sensorsdk/chart.html
+END
+done_setup.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/597/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/templates/sensorsdk/done_setup.html
+END
+update_last_alerts.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/618/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/templates/sensorsdk/update_last_alerts.js
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/619/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/templates/sensorsdk/index.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/619/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/templates/sensorsdk/base.html
+END
+sdk_info.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/609/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/templates/sensorsdk/sdk_info.html
+END
+update_last_records.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/657/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/templates/sensorsdk/update_last_records.js
+END
+setup_wizard.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/597/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/templates/sensorsdk/setup_wizard.html
+END

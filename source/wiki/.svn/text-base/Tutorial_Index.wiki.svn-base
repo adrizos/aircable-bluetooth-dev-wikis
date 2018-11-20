@@ -1,0 +1,48 @@
+#labels Featured
+This page shows some code examples you can use to develop your own solutions.
+
+All this examples are released under the [http://aircable.googlecode.com/svn/trunk/LICENSE.txt Apache V2 License]
+
+= Index = 
+
+== Slave Related Code ==
+  # *[http://code.google.com/p/aircable/wiki/Micro_Slave Micro Slave]*: A simple code that opens the slave port on discoverable mode and accepts all the incoming connections. It will teach you how to open the slave channel, how to make slave connections, and how to use debugging.
+  # *[http://code.google.com/p/aircable/wiki/Little_Slave Little Slave]*: Like the micro slave, but now it will open the shell if the user press "+" when the connection is firstly started. It will teach you how to handle input characters, how to open shell connections and finally will introduce Leds handling.
+  # *[http://code.google.com/p/aircable/source/browse/examples/small_slave_XR5/AIRcable.bas?r=672 Industrial XR3 and XR5 ready slave code]*
+  # *[http://code.google.com/p/aircable/wiki/Filtered_Salve Filtered Service Slave]*: A more complex mode, it will open the port in discoverable mode, but will check that those who want to connect to this peer complies with an address pattern. It will teach you how to compare string, and reject incoming connections.
+  # *[http://code.google.com/p/aircable/wiki/Restrictive_Slave Restrictive Slave]*: This is a piece of code taken from our command line, that will pair to a device, and then will apair invisible to all the other devices. It will teach you how to make an slave device discover and undiscoverable.
+  # *[http://code.google.com/p/aircable/wiki/ImprovedSlave Improved Slave]*: This is another slave example, it ensures slave profile availability almost 100% of the time.
+
+== Master Related Code ==
+  # *[http://code.google.com/p/aircable/wiki/Mini_Master Mini Master]*: This code will make inquires, and once it found a device it will try to connect, once the connection is closed it will start the process again. This will teach you how to handle alarms, make inquires, handle inquires results, make master connection, and check master connections.
+  # *[http://code.google.com/p/aircable/wiki/Filtered_Master Filtered Service Master]*: This code will make inquires, and if the device it discovers matches a given pattern it will make a connection, once the connection is lost it will connect to the first thing it can find. It will teach you how to work with inquires showing how sensitive they are.
+  # *[http://code.google.com/p/aircable/wiki/Listed_Master Listed Master]*: Those interested on buying AIRcable Mini or SMD can be very interested in this code. This code will have a predefined list of devices (between 0 and 48), will open a connection to each one of this (one at the time), will make some work over the connection, will close the connection and will continue with the next device, all this on an endless working cycle. It will teach you how to use _PRINT_ and close master connections from the master side. 
+  # *[http://code.google.com/p/aircable/wiki/Cable_Master Cable Master]*: This code is like our Cable Master, it will make inquires and will pair with the first device it can find. Once it is paired it will not inquiry any more and will only connect to it's peer. This code will show you a way to handle pairs from the master side.
+
+== Interactive Code ==
+  # *[http://code.google.com/p/aircable/wiki/Interactive_PIO Interactive Code]*: Sometimes you need an interactive shell on the other side, this code will teach you how to write a simple interactive program that will let the user control a series of leds and will read some analog/digital inputs.
+  # *[http://code.google.com/p/aircable/wiki/CommandLineOverSPP Wireless Command Line]*: This is a modified version of the command line version 0.5 that uses SPP for the command line instead of the UART.
+ 
+== Networking ==
+  # *[http://code.google.com/p/aircable/wiki/Relay Relay Mode Code]*: This code will show you how easy is to create a network of AIRcable devices. For this example you will need at least 3 different bluetooth devices, and one of those 3 must be an AIRcable OS enabled device. In this mode the AIRcable OS device will be connected to two other devices and will make a bridge between them, this way you can make the range of your bluetooth devices much longer.
+  # *[http://code.google.com/p/aircable/wiki/DUN_SPP DUN SPP]*: This example shows you how to switch between SPP and DUN profiles.
+
+== Hardware Interfacing ==
+  # *[http://code.google.com/p/aircable/wiki/GPS_Data_Logging GPS and Data Logging]*: In this example we will get connected to a Bluetooth Enabled GPS and will log all the data to a file.
+  # *[http://code.google.com/p/aircable/wiki/vCard vCard Sender]*: In this brief example we will show you how to create an automatic vCard sender.
+  # *[http://code.google.com/p/aircable/wiki/smsSender SMS Sender]*: This example will show you how to generate SMS messages on a BT enabled cell phone, and send them.
+  # *[http://code.google.com/p/aircable/wiki/GenericI2Ccode I2C Example]*: The [http://www.aircable.net/products-os.html AIRcable OS]  can communicate with any I2C device. This example uses the MCP3421 18bit ADC to read temperatures from a type-K thermocouple.
+
+== Miscellaneous == 
+  # *[http://code.google.com/p/aircable/wiki/BitwiseOperations Bitwise Operations]*: There are times when you need to do some bitwise operations, for example when you need to calculate a checksum, here we will show some bitwise operations implementations.
+  # *[http://www.aircable.net-a.googlepages.com/proximitymarketingstandalonesolution Publisher]*: Proximity Marketing with the AIRcable OS
+  # *[http://code.google.com/p/aircable/source/browse/examples/automatic_rssi_scan/AIRcable.bas?spec=svn673&r=671#1 Rssi Scanner]*: A piece of code that will start RSSI inquiry when it gets an SPP connection, printing results in the slave channel.
+
+== Future Examples ==
+  # Advanced Uart: This example read from Uart and writte to SPP, via BASIC program
+  # UART Interrupting: doing reads and writes manually with @UART interrupts
+  # Timing: attach clock, use time functions  
+  # Analog Interface: read from analog 1 and 2, a battery monitor that blinks when battery is low
+  # Temperature Sensor: temperature sensor and use @SENSOR
+  # I2C Interface: use the i2c function to talk to an ADC ads1112
+  # Having Some Fun: make some noise with a speaker

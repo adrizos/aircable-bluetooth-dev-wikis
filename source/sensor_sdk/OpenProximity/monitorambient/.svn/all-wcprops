@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/645/sensor_sdk/OpenProximity/monitorambient
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/627/sensor_sdk/OpenProximity/monitorambient/setup.py
+END
+build_source.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/639/sensor_sdk/OpenProximity/monitorambient/build_source.sh
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/574/sensor_sdk/OpenProximity/monitorambient/build.sh
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/574/sensor_sdk/OpenProximity/monitorambient/clean.sh
+END

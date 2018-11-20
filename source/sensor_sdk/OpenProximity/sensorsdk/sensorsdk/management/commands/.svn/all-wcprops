@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/570/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/management/commands
+END
+sdk_check_no_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/570/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/management/commands/sdk_check_no_data.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/561/sensor_sdk/OpenProximity/sensorsdk/sensorsdk/management/commands/__init__.py
+END

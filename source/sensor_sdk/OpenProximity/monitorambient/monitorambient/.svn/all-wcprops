@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/645/sensor_sdk/OpenProximity/monitorambient/monitorambient
+END
+plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/645/sensor_sdk/OpenProximity/monitorambient/monitorambient/plugin.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/645/sensor_sdk/OpenProximity/monitorambient/monitorambient/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/573/sensor_sdk/OpenProximity/monitorambient/monitorambient/models.py
+END

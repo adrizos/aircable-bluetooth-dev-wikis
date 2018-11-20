@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/199/lcd_temp/SPPAIRcable/src/Release
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/199/lcd_temp/SPPAIRcable/src/Release/makefile
+END
+subdir.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/199/lcd_temp/SPPAIRcable/src/Release/subdir.mk
+END
+objects.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/199/lcd_temp/SPPAIRcable/src/Release/objects.mk
+END
+sources.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/199/lcd_temp/SPPAIRcable/src/Release/sources.mk
+END

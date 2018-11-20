@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src
+END
+apnitc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/apnitc.cpp
+END
+apnflogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/apnflogger.cpp
+END
+logging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/logging.cpp
+END
+apnsocketserv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/apnsocketserv.cpp
+END
+apnsocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/apnsocket.cpp
+END
+panic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/panic.cpp
+END
+localepocpyutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/localepocpyutils.cpp
+END
+socketaos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/socketaos.cpp
+END
+btengine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/btengine.cpp
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/logging.h
+END
+apnimmediate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/apnimmediate.cpp
+END
+panic.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/panic.h
+END
+apnresolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/apnresolver.cpp
+END
+localepocpyutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/localepocpyutils.h
+END
+socketaos.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/socketaos.h
+END
+btengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/btengine.h
+END
+resolution.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/resolution.cpp
+END
+settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/settings.h
+END
+resolution.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/resolution.h
+END
+apnloop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/apnloop.cpp
+END
+moduleinit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/moduleinit.cpp
+END
+apnportdiscoverer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/src/apnportdiscoverer.cpp
+END

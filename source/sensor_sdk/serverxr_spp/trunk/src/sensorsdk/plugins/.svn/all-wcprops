@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/474/sensor_sdk/serverxr_spp/trunk/src/sensorsdk/plugins
+END
+monitor_ambient.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/474/sensor_sdk/serverxr_spp/trunk/src/sensorsdk/plugins/monitor_ambient.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/474/sensor_sdk/serverxr_spp/trunk/src/sensorsdk/plugins/__init__.py
+END

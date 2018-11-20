@@ -1,0 +1,6 @@
+#* 
+    Example usage, this will generate
+    monitor generic linear testing code as SLAVE
+*#
+#include "slave-base"
+#include "generic-linear/AIRcable.bas"

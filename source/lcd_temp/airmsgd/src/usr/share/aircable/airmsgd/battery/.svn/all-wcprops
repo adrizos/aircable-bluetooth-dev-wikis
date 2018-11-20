@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/354/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/battery
+END
+parse.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/353/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/battery/parse.sh
+END
+genxml.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/354/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/battery/genxml.sh
+END
+battery.xml.awk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/354/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/battery/battery.xml.awk
+END
+parse1.awk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/303/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/battery/parse1.awk
+END
+parse2.awk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/303/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/battery/parse2.awk
+END

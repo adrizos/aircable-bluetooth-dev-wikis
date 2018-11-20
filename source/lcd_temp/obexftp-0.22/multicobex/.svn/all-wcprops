@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/471/lcd_temp/obexftp-0.22/multicobex
+END
+multi_cobex.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/multicobex/multi_cobex.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/multicobex/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/multicobex/Makefile.am
+END
+multi_cobex_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/multicobex/multi_cobex_private.h
+END
+multi_cobex.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/multicobex/multi_cobex.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/471/lcd_temp/obexftp-0.22/multicobex/Makefile
+END

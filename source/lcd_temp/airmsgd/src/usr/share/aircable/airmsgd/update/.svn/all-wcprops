@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/371/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/update
+END
+adddots.awk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/355/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/update/adddots.awk
+END
+parsestemp.awk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/355/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/update/parsestemp.awk
+END
+parsestemp2.awk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/371/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/update/parsestemp2.awk
+END
+parsepeer.awk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/355/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/update/parsepeer.awk
+END
+requestxml.awk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/355/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/update/requestxml.awk
+END
+update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/371/lcd_temp/airmsgd/src/usr/share/aircable/airmsgd/update/update.sh
+END

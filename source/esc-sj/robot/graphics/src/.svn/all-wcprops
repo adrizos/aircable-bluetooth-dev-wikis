@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/664/esc-sj/robot/graphics/src
+END
+fontspec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/664/esc-sj/robot/graphics/src/fontspec.cpp
+END
+test_graphics.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/664/esc-sj/robot/graphics/src/test_graphics.py
+END
+test_alphablit.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/664/esc-sj/robot/graphics/src/test_alphablit.py
+END
+graphicsmodule.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/664/esc-sj/robot/graphics/src/graphicsmodule.cpp
+END
+module_config.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/664/esc-sj/robot/graphics/src/module_config.cfg
+END
+airbotgraphics.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/664/esc-sj/robot/graphics/src/airbotgraphics.py
+END
+colorspec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/664/esc-sj/robot/graphics/src/colorspec.cpp
+END
+test_font.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/664/esc-sj/robot/graphics/src/test_font.py
+END

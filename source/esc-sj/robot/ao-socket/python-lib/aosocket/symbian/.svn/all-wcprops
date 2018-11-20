@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/symbian
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/symbian/__init__.py
+END
+symbian_itc.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/symbian/symbian_itc.py
+END
+symbian_async_mgr.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/symbian/symbian_async_mgr.py
+END
+bt_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/symbian/bt_utils.py
+END
+Flogger.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/symbian/Flogger.py
+END
+bt.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/symbian/bt.py
+END
+tcp.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/symbian/tcp.py
+END
+symbian_async_socket.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/symbian/symbian_async_socket.py
+END
+bt_device_discoverer.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/symbian/bt_device_discoverer.py
+END
+symbian_socket.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/symbian/symbian_socket.py
+END

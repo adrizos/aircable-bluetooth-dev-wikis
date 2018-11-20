@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/471/lcd_temp/AIRcableSPP2/src
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/383/lcd_temp/AIRcableSPP2/src/main.c
+END
+types.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/238/lcd_temp/AIRcableSPP2/src/types.c
+END
+node.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/471/lcd_temp/AIRcableSPP2/src/node.c
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/296/lcd_temp/AIRcableSPP2/src/types.h
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/374/lcd_temp/AIRcableSPP2/src/node.h
+END
+errorcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/242/lcd_temp/AIRcableSPP2/src/errorcodes.h
+END

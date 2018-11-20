@@ -1,0 +1,23 @@
+plot [0:1800] [-10:110] "ntc_real_vo" using 3:1:(1.0) smooth acsplines title "4700"
+
+f0(x)=a0*x+b0
+fit [500:1500] f0(x) 'ntc_real_vo' using 3:1 via a0, b0
+replot f0(x)
+
+f1(x)=a1*x+b1
+fit [1450:1600] f1(x) 'ntc_real_vo' using 3:1 via a1, b1
+replot f1(x)
+
+f2(x)=a2*x+b2
+fit [350:650] f2(x) 'ntc_real_vo' using 3:1 via a2, b2
+replot f2(x)
+
+f3(x)=a3*x+b3
+fit [250:400] f3(x) 'ntc_real_vo' using 3:1 via a3, b3
+replot f3(x)
+
+print '500:1500 ', a0, b0
+print '1450:1600 ',a1, b1
+print '350:650 ', a2, b2
+print '250:400 ', a3, b3
+pause -1

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs
+END
+test_mgsock_bt.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_mgsock_bt.py
+END
+test_asyncsock_webcl.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_asyncsock_webcl.py
+END
+test_ctc.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_ctc.py
+END
+test_ao_loop_3.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_ao_loop_3.py
+END
+test_tcp_symbsock_webcl.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_tcp_symbsock_webcl.py
+END
+test_mgr_webclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_mgr_webclient.py
+END
+test_resolver_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_resolver_2.py
+END
+test_log_basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_log_basic.py
+END
+test_transport_registry.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_transport_registry.py
+END
+test_resolver_4.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_resolver_4.py
+END
+test_waittid_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_waittid_2.py
+END
+test_open_close.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_open_close.py
+END
+test_ntvsock_bt_cl.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_ntvsock_bt_cl.py
+END
+test_condvar.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_condvar.py
+END
+test_socket_mgr.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_socket_mgr.py
+END
+test_tcp_asyncsock.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_tcp_asyncsock.py
+END
+test_mgsock_tcp_webcl.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_mgsock_tcp_webcl.py
+END
+test_tcp_symbsock_websv.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_tcp_symbsock_websv.py
+END
+test_resolver_native.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_resolver_native.py
+END
+test_ao_lock.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_ao_lock.py
+END
+test_big_send.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_big_send.py
+END
+test_port_discovery.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_port_discovery.py
+END
+test_echo.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_echo.py
+END
+test_advertising.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_advertising.py
+END
+test_mt_log.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_mt_log.py
+END
+test_resolver_3.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_resolver_3.py
+END
+test_get_avail_bt_port.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_get_avail_bt_port.py
+END
+test_ntvsock_bt_sv.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_ntvsock_bt_sv.py
+END
+test_mt_gc.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_mt_gc.py
+END
+test_condvar_basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_condvar_basic.py
+END
+test_tcp_symbsock.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_tcp_symbsock.py
+END
+test_port_num.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_port_num.py
+END
+test_immediate_cancel.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_immediate_cancel.py
+END
+test_waittid.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/test-programs/test_waittid.py
+END

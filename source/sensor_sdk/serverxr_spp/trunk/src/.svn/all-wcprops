@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/474/sensor_sdk/serverxr_spp/trunk/src
+END
+sppSampleServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/474/sensor_sdk/serverxr_spp/trunk/src/sppSampleServer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/474/sensor_sdk/serverxr_spp/trunk/src/__init__.py
+END
+spplog.conf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/474/sensor_sdk/serverxr_spp/trunk/src/spplog.conf
+END
+log.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/474/sensor_sdk/serverxr_spp/trunk/src/log.py
+END
+pluginsystem.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/474/sensor_sdk/serverxr_spp/trunk/src/pluginsystem.py
+END

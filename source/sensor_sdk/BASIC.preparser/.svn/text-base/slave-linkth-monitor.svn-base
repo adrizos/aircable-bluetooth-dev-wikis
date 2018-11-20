@@ -1,0 +1,6 @@
+#* 
+    Example usage, this will generate
+    monitor ambient testing code as MASTER
+*#
+#include "slave-base"
+#include "LinkTH/AIRcable.bas"

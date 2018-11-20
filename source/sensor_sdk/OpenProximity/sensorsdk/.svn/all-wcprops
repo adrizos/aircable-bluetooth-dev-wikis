@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/660/sensor_sdk/OpenProximity/sensorsdk
+END
+rpc_sdk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/565/sensor_sdk/OpenProximity/sensorsdk/rpc_sdk.sh
+END
+sdist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/635/sensor_sdk/OpenProximity/sensorsdk/sdist.sh
+END
+cron
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/613/sensor_sdk/OpenProximity/sensorsdk/cron
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/652/sensor_sdk/OpenProximity/sensorsdk/setup.py
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/574/sensor_sdk/OpenProximity/sensorsdk/build.sh
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/574/sensor_sdk/OpenProximity/sensorsdk/clean.sh
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/652/sensor_sdk/OpenProximity/sensorsdk/MANIFEST.in
+END
+deps
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/613/sensor_sdk/OpenProximity/sensorsdk/deps
+END

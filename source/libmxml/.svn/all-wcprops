@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/330/libmxml
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/330/libmxml/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/330/libmxml/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/330/libmxml/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/330/libmxml/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/330/libmxml/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/330/libmxml/NEWS
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/330/libmxml/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/330/libmxml/install-sh
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/330/libmxml/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/330/libmxml/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/330/libmxml/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/330/libmxml/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/330/libmxml/configure.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/330/libmxml/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/330/libmxml/ChangeLog
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/330/libmxml/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/330/libmxml/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/330/libmxml/ltmain.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/330/libmxml/README
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/330/libmxml/config.h.in
+END

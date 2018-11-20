@@ -1,0 +1,94 @@
+10
+
+dir
+676
+http://aircable.googlecode.com/svn/examples
+http://aircable.googlecode.com/svn
+
+
+
+2010-09-10T17:55:27.973579Z
+672
+naranjo.manuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+424b5fdb-2024-0410-8daf-076db069837d
+
+cable_master
+dir
+
+rssi_scan
+dir
+
+micro_master
+dir
+
+message
+dir
+
+filtered_service_master
+dir
+
+automatic_rssi_scan
+dir
+
+restrictive_slave
+dir
+
+publisher
+dir
+
+listed_master
+dir
+
+vcard
+dir
+
+small_slave_XR5
+dir
+
+advanced_relay
+dir
+
+small_slave
+dir
+
+smsSender
+dir
+
+micro_slave
+dir
+
+gps_example
+dir
+
+relay_code
+dir
+
+interactive_code
+dir
+
+dun_spp
+dir
+
+filtered_service_slave
+dir
+
+intelligent_networks
+dir
+
+improved_slave
+dir
+

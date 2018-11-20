@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/387/lcd_temp/build-script/AIRcableSPP2
+END
+rc.AIRint
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/387/lcd_temp/build-script/AIRcableSPP2/rc.AIRint
+END
+slack-desc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/387/lcd_temp/build-script/AIRcableSPP2/slack-desc
+END
+doinst.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/387/lcd_temp/build-script/AIRcableSPP2/doinst.sh
+END
+aircablessp2.kwortbuild
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/387/lcd_temp/build-script/AIRcableSPP2/aircablessp2.kwortbuild
+END

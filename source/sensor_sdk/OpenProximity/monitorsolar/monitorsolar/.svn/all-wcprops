@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/646/sensor_sdk/OpenProximity/monitorsolar/monitorsolar
+END
+plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/646/sensor_sdk/OpenProximity/monitorsolar/monitorsolar/plugin.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/646/sensor_sdk/OpenProximity/monitorsolar/monitorsolar/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/569/sensor_sdk/OpenProximity/monitorsolar/monitorsolar/models.py
+END

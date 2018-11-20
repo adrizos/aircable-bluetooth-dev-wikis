@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/474/sensor_sdk/serverxr_spp/trunk/src/net/aircable/spp
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/423/sensor_sdk/serverxr_spp/trunk/src/net/aircable/spp/errors.py
+END
+sppBase.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/474/sensor_sdk/serverxr_spp/trunk/src/net/aircable/spp/sppBase.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/474/sensor_sdk/serverxr_spp/trunk/src/net/aircable/spp/__init__.py
+END
+sppClient.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/426/sensor_sdk/serverxr_spp/trunk/src/net/aircable/spp/sppClient.py
+END
+sppServer.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/474/sensor_sdk/serverxr_spp/trunk/src/net/aircable/spp/sppServer.py
+END

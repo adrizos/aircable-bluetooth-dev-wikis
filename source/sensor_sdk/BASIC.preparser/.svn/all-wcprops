@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/668/sensor_sdk/BASIC.preparser
+END
+slave-base
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/629/sensor_sdk/BASIC.preparser/slave-base
+END
+parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/629/sensor_sdk/BASIC.preparser/parser.py
+END
+slave-linkth-monitor
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/629/sensor_sdk/BASIC.preparser/slave-linkth-monitor
+END
+clean.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/510/sensor_sdk/BASIC.preparser/clean.py
+END
+slave-demo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/630/sensor_sdk/BASIC.preparser/slave-demo
+END
+slave-solar-monitor
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/629/sensor_sdk/BASIC.preparser/slave-solar-monitor
+END
+slave-debug
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/481/sensor_sdk/BASIC.preparser/slave-debug
+END
+reset_counter.patch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/552/sensor_sdk/BASIC.preparser/reset_counter.patch
+END
+master-debug
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/481/sensor_sdk/BASIC.preparser/master-debug
+END
+slave-monitor
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/629/sensor_sdk/BASIC.preparser/slave-monitor
+END
+master-monitor
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/481/sensor_sdk/BASIC.preparser/master-monitor
+END
+slave-generic-linear-monitor
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/629/sensor_sdk/BASIC.preparser/slave-generic-linear-monitor
+END

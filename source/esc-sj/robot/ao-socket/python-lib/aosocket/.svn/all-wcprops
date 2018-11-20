@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket
+END
+async_socket_exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/async_socket_exceptions.py
+END
+abst_async_mgr.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/abst_async_mgr.py
+END
+CondVar.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/CondVar.py
+END
+async_mgr_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/async_mgr_base.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/settings.py
+END
+MtFileLogger.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/MtFileLogger.py
+END
+async_socket.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/663/esc-sj/robot/ao-socket/python-lib/aosocket/async_socket.py
+END

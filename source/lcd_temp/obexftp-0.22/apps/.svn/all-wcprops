@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/471/lcd_temp/obexftp-0.22/apps
+END
+perl_example.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/apps/perl_example.pl
+END
+obexftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/apps/obexftp.c
+END
+discovery.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/apps/discovery.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/apps/Makefile.am
+END
+ruby_obexftp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/apps/ruby_obexftp.rb
+END
+obexftpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/apps/obexftpd.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/471/lcd_temp/obexftp-0.22/apps/Makefile
+END
+obexftp_sdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/apps/obexftp_sdp.c
+END
+ruby_example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/apps/ruby_example.rb
+END
+tcl_example.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/apps/tcl_example.tcl
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/apps/Makefile.in
+END
+python_example.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/apps/python_example.py
+END
+obexftp_sdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/396/lcd_temp/obexftp-0.22/apps/obexftp_sdp.h
+END

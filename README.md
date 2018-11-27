@@ -3,4 +3,5 @@ This is a combination of development wikis, sample code, and tutorials that I ha
 
 
 Link To Google Long Term Code Storage Page:https://code.google.com/archive/p/aircable/
-This may be helpful should you need to follow links that are referenced in pdfs etc. 
+This may be helpful should you need to follow links that are referenced in pdfs etc.
+You will also find links to all the wiki articles that go into detail about the various topics covered here. 
